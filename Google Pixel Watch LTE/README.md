@@ -1,0 +1,1 @@
+Google Pixel Watch LTE

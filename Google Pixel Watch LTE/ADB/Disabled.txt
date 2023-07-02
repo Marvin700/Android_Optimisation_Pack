@@ -1,0 +1,8 @@
+com.android.backupconfirm
+com.android.captiveportallogin
+com.android.carrierdefaultapp
+com.android.emergency
+com.android.managedprovisioning
+com.android.wallpaperbackup
+com.google.android.apps.wearable.retailattractloop
+com.google.android.clockwork.oemsetup
