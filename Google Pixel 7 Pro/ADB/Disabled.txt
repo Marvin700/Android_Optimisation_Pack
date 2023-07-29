@@ -6,7 +6,6 @@ com.android.wallpaper.livepicker
 com.customermobile.preload.vzw
 com.google.ambient.streaming
 com.google.android.accessibility.soundamplifier
-com.google.android.apps.carrier.log
 com.google.android.apps.diagnosticstool
 com.google.android.apps.dreamliner
 com.google.android.apps.emojiwallpaper
