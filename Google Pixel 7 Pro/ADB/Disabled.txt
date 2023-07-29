@@ -22,8 +22,6 @@ com.google.android.apps.tips
 com.google.android.apps.wearables.maestro.companion
 com.google.android.apps.work.clouddpc
 com.google.android.apps.youtube.music
-com.google.android.carrier
-com.google.android.carrierlocation
 com.google.android.feedback
 com.google.android.gms.supervision
 com.google.android.marvin.talkback
